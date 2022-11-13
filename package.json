@@ -1,0 +1,18 @@
+{
+  "name": "full-stack-web-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "shopcart": "ShoppingCart.js",
+  "scripts": {
+    "shopcart": "node ShoppingCart.js",
+    "main": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.7.0"
+  }
+}
